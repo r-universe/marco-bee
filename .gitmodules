@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FitDynMix"]
 	path = FitDynMix
 	url = https://github.com/marco-bee/fitdynmix
-	shallow = true
-	registered = true
