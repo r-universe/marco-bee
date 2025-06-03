@@ -8,3 +8,6 @@
 [submodule "LNPar"]
 	path = LNPar
 	url = https://github.com/marco-bee/lnpar
+[submodule "lognGPD"]
+	path = lognGPD
+	url = https://github.com/marco-bee/logngpd
